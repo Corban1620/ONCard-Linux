@@ -1,4 +1,6 @@
-#### Note: ONCards for Linux is still in early development and testing phases. in the event you are to encounter a bug please notify me via GitHub Issue
+### Current Version: 1.2.6
+
+#### Note: ONCards for Linux is still in early development and testing phases. In the event you are to encounter a bug please notify me via GitHub Issues
 #### Note: ONCards for Linux may be slightly out of date with the original ONCards Repository:
 #### https://github.com/MightyXdash/ONCard
 ---
