@@ -36,7 +36,14 @@ A fully offline study app with a virtual teacher and an algorithm which learns y
 
 > Ongoing improvements focused on introducing practical features and reducing overall application size for better performance and accessibility.
 
+### How to Install:
 
+- Download the latest version from GitHub Releases.
+- Navigate to where you downloaded it to (`cd Downloads`).
+- Extract the tarball (`tar -xf ONCard-Linux-1.2.6.tar.gz`).
+- Navigate to the extracted folder (`cd ONCard`).
+- Create a shortcut (`./install.sh`).
+- Run via the shortcut in your start menu. If using terminal: `./ONCard`.
 
 ### 🔴 Important
 
