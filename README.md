@@ -32,7 +32,7 @@ A fully offline study app with a virtual teacher and an algorithm which learns y
 - if you want help, just type a follow-up question and press enter for the teacher to explain it to you.
 
 <details>
-<summary><strong>🚀 Features for the Next Updates</strong></summary>
+<summary><strong>🚀 Features for the Next Updates & How to install.</strong></summary>
 
 > Ongoing improvements focused on introducing practical features and reducing overall application size for better performance and accessibility.
 
@@ -75,8 +75,8 @@ A fully offline study app with a virtual teacher and an algorithm which learns y
 # Citation:
 If you are using my code or elements from this project, please cite:
 ```
-@MightyXdash/ONCard, 2026
-https://github.com/MightyXdash/ONCard
+@Corban1620/ONCards-Linux, 2026
+https://github.com/Corban1620/ONCards-Linux
 ```
 Thanks for using my app🤗.
 Love to the opensource community🥰.
